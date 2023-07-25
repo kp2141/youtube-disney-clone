@@ -1,8 +1,7 @@
-Description of this React Disney-Hotstar clone:
+# Description of this React Disney-Hotstar clone:
 
 This is a simple react project to learn about the Frontend technologies:
 Live link: https://disneyplus-clone-1f3a4.firebaseapp.com/
-
 
 
 # Getting Started with Create React App
